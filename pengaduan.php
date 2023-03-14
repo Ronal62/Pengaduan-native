@@ -19,7 +19,7 @@ include 'header.php';
                 <div class="navbar-nav">
                     <a href="media.php" class="nav-item nav-link ">Home</a>
                     <a href="pengaduan.php" class="nav-item nav-link active">Pengaduan</a>
-                    <a href="about.html" class="nav-item nav-link">About</a>
+                    <a href="page/about.php" class="nav-item nav-link">About</a>
                     <a href="service.html" class="nav-item nav-link">Services</a>
                     <a href="project.html" class="nav-item nav-link">Projects</a>
                     <div class="nav-item dropdown">

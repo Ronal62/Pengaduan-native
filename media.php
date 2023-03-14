@@ -7,7 +7,7 @@ include 'header.php';
     <div class="container">
         <nav class="navbar navbar-expand-lg bg-white navbar-light p-lg-0">
             <a href="index.html" class="navbar-brand d-lg-none">
-                <h1 class="fw-bold m-0">GrowMark</h1>
+                <h1 class="fw-bold m-0">Pengaduan|Masyarakat</h1>
             </a>
             <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
@@ -52,11 +52,10 @@ include 'header.php';
                         <div class="row justify-content-start">
                             <div class="col-lg-7 text-start">
                                 <p class="fs-4 text-white animated slideInRight">Welcome to
-                                    <strong>GrowMark</strong>
+                                    <strong>Pengaduan<span class="text-dark">Masyarakat</span></strong>
                                 </p>
-                                <h1 class="display-1 text-white mb-4 animated slideInRight">Unlock Your Business
-                                    Growth</h1>
-                                <a href="" class="btn btn-primary rounded-pill py-3 px-5 animated slideInRight">Explore
+                                <h1 class="display-1 text-white mb-4 animated slideInRight">Laporkan Masalah Anda </h1>
+                                <a href="login.php" class="btn btn-primary rounded-pill py-3 px-5 animated slideInRight">Explore
                                     More</a>
                             </div>
                         </div>
